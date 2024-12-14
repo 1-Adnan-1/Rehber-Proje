@@ -17,5 +17,18 @@ Bu proje, React kullanılarak oluşturulmuş bir Rehber Uygulamasıdır. Uygulam
 - **HTML ve JSX**: React içinde HTML benzeri yapı kullanımı.
 - **SCSS**: Daha modüler ve esnek stiller oluşturmak için.
 
+## ☠️ Veri Yapısı
+
+Uygulama, fake bir `db.json` dosyası üzerinden çalışmaktadır.
+
+- **İsim Soyisim**
+- **Pozisyon**
+- **Çalıştığı Şirket**
+- **Telefon Numarası**
+- **E-posta Adresi**
+
+Tüm bu veriler tamamen fake olarak oluşturulmuştur.
+
+
 # 📷 Ekran Görüntüsü 
 ![ZightRecording2024-12-14at09 29 12PM-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/d39ff028-bf61-4abd-b7ac-6e7918ef2190)
